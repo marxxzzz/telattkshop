@@ -8,7 +8,9 @@
       "Bash(winget --version)",
       "Bash(winget install *)",
       "Bash(export PATH=\"$PATH:/c/Program Files/GitHub CLI\")",
-      "Bash(gh auth *)"
+      "Bash(gh auth *)",
+      "Bash(sed -i 's|../../p16-oec-va.ibyteimg.com/|https://p16-oec-va.ibyteimg.com/|g' cel/index.html)",
+      "Bash(sed -i 's|https://seupedidohoje.shop/cel/images/preto.png|images/captura-de-tela-2025-04-23-161022_1.jpg|g' cel/index.html)"
     ]
   }
 }
