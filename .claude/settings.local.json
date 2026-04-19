@@ -1,0 +1,14 @@
+{
+  "permissions": {
+    "allow": [
+      "WebFetch(domain:seupedidohoje.shop)",
+      "mcp__Claude_in_Chrome__tabs_context_mcp",
+      "Bash(dir \"C:/Users/aline/Downloads/telattkshop/cel/images/\")",
+      "Bash(git --version)",
+      "Bash(winget --version)",
+      "Bash(winget install *)",
+      "Bash(export PATH=\"$PATH:/c/Program Files/GitHub CLI\")",
+      "Bash(gh auth *)"
+    ]
+  }
+}
